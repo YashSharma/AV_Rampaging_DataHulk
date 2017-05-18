@@ -1,0 +1,12 @@
+0	Stock_ID	q
+1	Volume	q
+2	Three_Day_Moving_Average	q
+3	Five_Day_Moving_Average	q
+4	True_Range	q
+5	Average_True_Range	q
+6	Positive_Directional_Movement	q
+7	Negative_Directional_Movement	q
+8	feat1	q
+9	feat2	q
+10	feat3	q
+11	feat4	q
